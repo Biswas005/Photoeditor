@@ -1,0 +1,5 @@
+/home/amardeep/PhotoEditor/build/CMakeFiles/PhotoEditor.dir
+/home/amardeep/PhotoEditor/build/CMakeFiles/edit_cache.dir
+/home/amardeep/PhotoEditor/build/CMakeFiles/rebuild_cache.dir
+/home/amardeep/PhotoEditor/build/CMakeFiles/PhotoEditor_autogen_timestamp_deps.dir
+/home/amardeep/PhotoEditor/build/CMakeFiles/PhotoEditor_autogen.dir

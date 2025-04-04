@@ -1,0 +1,4 @@
+# Hashes of file build rules.
+1e9ba4a0f1c9ef2cf6671488e37cc3dc CMakeFiles/PhotoEditor_autogen
+1e9ba4a0f1c9ef2cf6671488e37cc3dc CMakeFiles/PhotoEditor_autogen_timestamp_deps
+4d8f00bb8858a7d6e35e6461b7907260 PhotoEditor_autogen/timestamp

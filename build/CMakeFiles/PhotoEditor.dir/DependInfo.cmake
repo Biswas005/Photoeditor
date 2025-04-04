@@ -1,0 +1,26 @@
+
+# Consider dependencies only in project.
+set(CMAKE_DEPENDS_IN_PROJECT_ONLY OFF)
+
+# The set of languages for which implicit dependencies are needed:
+set(CMAKE_DEPENDS_LANGUAGES
+  )
+
+# The set of dependency files which are needed:
+set(CMAKE_DEPENDS_DEPENDENCY_FILES
+  "" "PhotoEditor_autogen/timestamp" "custom" "PhotoEditor_autogen/deps"
+  "/home/amardeep/PhotoEditor/build/PhotoEditor_autogen/mocs_compilation.cpp" "CMakeFiles/PhotoEditor.dir/PhotoEditor_autogen/mocs_compilation.cpp.o" "gcc" "CMakeFiles/PhotoEditor.dir/PhotoEditor_autogen/mocs_compilation.cpp.o.d"
+  "/home/amardeep/PhotoEditor/main.cpp" "CMakeFiles/PhotoEditor.dir/main.cpp.o" "gcc" "CMakeFiles/PhotoEditor.dir/main.cpp.o.d"
+  "/home/amardeep/PhotoEditor/mainwindow.cpp" "CMakeFiles/PhotoEditor.dir/mainwindow.cpp.o" "gcc" "CMakeFiles/PhotoEditor.dir/mainwindow.cpp.o.d"
+  )
+
+# Targets to which this target links which contain Fortran sources.
+set(CMAKE_Fortran_TARGET_LINKED_INFO_FILES
+  )
+
+# Targets to which this target links which contain Fortran sources.
+set(CMAKE_Fortran_TARGET_FORWARD_LINKED_INFO_FILES
+  )
+
+# Fortran module output directory.
+set(CMAKE_Fortran_TARGET_MODULE_DIR "")
